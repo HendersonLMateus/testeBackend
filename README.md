@@ -32,3 +32,7 @@ A pasta, nomeada de "Meu Tema" possui 6 arquivos.
 
 - COMMENTS.php
   - É o arquivo responsavel pela organização dos comentários e como eles serão apresentados.
+  
+- - - - - 
+
+Depois de baixar e colocar na pasta Themes no Wordpress, crie alguns posts com imagens para ver o código funcionando e adicione alguns comentários
